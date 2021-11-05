@@ -1,6 +1,6 @@
 # Excel-Dashboards
 Interactive and simple dashboards build in excel.
-No vba or macros required
+Note: Some workbooks uses micros for additional functionality.
 
 # 1.) Video Game Sales
 
